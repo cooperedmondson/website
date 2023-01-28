@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.db8a55eb.css",
+    "main.js": "/website/static/js/main.2f4fd51a.js",
+    "static/js/787.b2184f62.chunk.js": "/website/static/js/787.b2184f62.chunk.js",
+    "static/media/Axe.gif": "/website/static/media/Axe.4fa32553f70abba8616d.gif",
+    "static/media/Donnie.gif": "/website/static/media/Donnie.3c97c1335e5861fb0af9.gif",
+    "static/media/TAXIDRIVER.gif": "/website/static/media/TAXIDRIVER.5b5154ee7f914fcb7497.gif",
+    "static/media/STONK.gif": "/website/static/media/STONK.651b5edf637b27cca2e6.gif",
+    "static/media/ColorGrainblk.png": "/website/static/media/ColorGrainblk.ebd43674316defbc13f5.png",
+    "static/media/Rip.svg": "/website/static/media/Rip.9d0fdbea48483376d96a.svg",
+    "static/media/Ghakity.otf": "/website/static/media/Ghakity.92f37a8a6fb60282cc6e.otf",
+    "static/media/Mouse.png": "/website/static/media/Mouse.d867bddd42af8ce2c274.png",
+    "static/media/RUFF.GIF": "/website/static/media/RUFF.75d9bb2b6d18b8bbd3e4.GIF",
+    "static/media/ilyas.otf": "/website/static/media/ilyas.3124ef3b1ff873e973b3.otf",
+    "index.html": "/website/index.html",
+    "main.db8a55eb.css.map": "/website/static/css/main.db8a55eb.css.map",
+    "main.2f4fd51a.js.map": "/website/static/js/main.2f4fd51a.js.map",
+    "787.b2184f62.chunk.js.map": "/website/static/js/787.b2184f62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db8a55eb.css",
+    "static/js/main.2f4fd51a.js"
+  ]
+}
